@@ -18,3 +18,15 @@ IP-CIDR,144.178.48.0/20,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
+DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
+DOMAIN,safebrowsing.googleapis.com,DIRECT
+DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
+DOMAIN-SUFFIX,apple-mapkit.com,DIRECT
+DOMAIN-SUFFIX,me.com,DIRECT
+DOMAIN-SUFFIX,aaplimg.com,DIRECT
+DOMAIN-SUFFIX,cdn20.com,DIRECT
+DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+USER-AGENT,com.apple.appstored*,DIRECT
+USER-AGENT,AppStore*,DIRECT
+DOMAIN-SUFFIX,icloud.com,DIRECT
+DOMAIN-SUFFIX,icloud-content.com,DIRECT
